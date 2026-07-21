@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6r0111_000-X.yaml, hash: 'sha256:33d9dd457459a315ca5f5383f4aec6322f949901baa25fa84e9c3f3736827e5f'}
+  - {seq: 0, filename: KR6r0111_000-X.yaml, hash: 'sha256:cf0fb067423ac5e9108165a80ff8192fb21b128b3710fcfdb3814cc9903665a4'}
   - {seq: 1, filename: KR6r0111_001-X.yaml, hash: 'sha256:0d55b1512f4253da0ae401c21a66e275bc650eb28e59f7835c58a5b0ae9993c2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0111_000-X.markers.yaml, hash: 'sha256:aeb2feb0963db5212f02db9f80208ed9500788eb51e88cc58959d30b949b132f'}
+  - {seq: 0, role: markers, filename: assets/KR6r0111_000-X.markers.yaml, hash: 'sha256:d88e0fb4b9b91c5b3691baebec2bb9a0a94789dc4728cfcd5a5b5a45bc25cdb3'}
   - {seq: 1, role: markers, filename: assets/KR6r0111_001-X.markers.yaml, hash: 'sha256:d12aed13e5894be5604f365f5691b1fd3bf4d316b62941f6e4c35f82c1d59967'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6r0111_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1602-A 佛祖宗派世譜序
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0111_X_000-mulu-2
     span:
-    - front
+    - body
     - 339
     - 339
   label: 佛祖宗派世譜目錄
@@ -75,4 +75,4 @@ table_of_contents:
   label: 曹洞宗天童法派世系圖
   type: mulu
   level: 1
-hash: sha256:2b335e727eb3b6b26672e1536fb0f7135280c9a5bb3213b53ecd0ecd87dc3c37
+hash: sha256:fcd68bef8043c455e0b4f2eff0928b9733f3e71e2302a7d4aef11ee69dd90034
